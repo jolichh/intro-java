@@ -1,0 +1,11 @@
+java
+kotlin
+scala
+clojure
+cotxe
+barcelona
+monserrat
+barbacoa
+platja
+mar
+ordinador
